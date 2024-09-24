@@ -3,7 +3,7 @@
 ## 编译配置opencv
 
 通过编译安装opencv
-而后初步了解了cmake的使用方法，通过编程使得vscode与opencv库链接（由于之前对cmake没有任何概念，直接生搬硬套csdn上的东西给vscode配置了一堆东西导致出了问题，后来从B站上稍微系统的学习了一下才得到了解决）
+而后初步了解了cmake的使用方法，通过编程使得vscode与opencv库链接（由于之前对cmake没有任何概念，直接生搬硬套csdn上的东西给vscode配置了一堆东西导致出了问题，后来从B站上稍微系统的了解了一下才得到了解决），下面是学习终端命令行操作的一些笔记
 
 [![2024-09-22-19-56-29.png](https://i.postimg.cc/SxKPsJmZ/2024-09-22-19-56-29.png)](https://postimg.cc/0bLnX5Mm)
 
