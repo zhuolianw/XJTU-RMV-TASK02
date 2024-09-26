@@ -1,3 +1,0 @@
-/home/wuyx/opencv_project/build/CMakeFiles/opencv_project.dir
-/home/wuyx/opencv_project/build/CMakeFiles/edit_cache.dir
-/home/wuyx/opencv_project/build/CMakeFiles/rebuild_cache.dir
